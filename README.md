@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# NodeApp
+=======
 
 # Instrucciones para ejecutar la aplicación
 
@@ -62,3 +65,4 @@ Esta aplicación consta de un frontend en React, un backend en Node.js, y una ba
 - Si haces cambios en el código del frontend o backend, deberás reconstruir las imágenes ejecutando `docker-compose up --build` nuevamente.
 - Los datos de la base de datos se persistirán en un volumen de Docker (`db-data`). Si deseas eliminar estos datos, puedes eliminar el volumen con `docker volume rm tu-repositorio_db-data`.
 ```
+>>>>>>> 15249eb00b6c47095cd004e988a6352d134e430d
